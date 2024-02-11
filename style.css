@@ -5,7 +5,8 @@ h1{
     font-style: italic;
 }
 body{
-    background-color: beige;
+    background-color: #F49390;
+    margin: 0 auto;
 }
 li{
     color: black;
@@ -19,4 +20,47 @@ p{
 h2{
     font-family: 'Times New Roman', Times, serif;
     font-style: oblique;
+}
+header{
+    background-color: #F48586;
+    display: flex;
+    justify-content: center;
+}
+.card{
+    display: inline-block;
+    width: 250px;
+    height: 200px;
+    padding: 0;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -100px -125px;
+}
+.center{
+    text-align: justify;
+    padding-top: 25px;
+    color: black;
+}
+a {
+    outline: none;
+    text-decoration: none;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited{
+    color: whitesmoke;
+}
+a:focus{
+    color: white;
+}
+.colorwhite{
+    color: white;
+}
+ul{
+    list-style-type: circle;
+    list-style-position: inside;   
 }
