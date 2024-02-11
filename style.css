@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+body{
+    background-color: beige;
+}
+li{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+p{
+    font-size: medium;
+    font-style: italic;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
